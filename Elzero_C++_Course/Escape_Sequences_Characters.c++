@@ -20,7 +20,7 @@ int main()
 }
 */
 
-
+/*
 int main()
 {
     int
@@ -29,7 +29,7 @@ int main()
     return 0;
     
 }
-
+*/
 
 /*
 #include <iostream>
