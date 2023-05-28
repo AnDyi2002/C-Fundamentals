@@ -28,7 +28,7 @@ using namespace std;
 //     //     cout << "No Events in This Year";
 //     //     break;
 //     // }
-    
+
 //     //     int day;
 //     // cin >> day;
 
@@ -78,7 +78,10 @@ using namespace std;
 // ==============================
 // ==============================
 
-int main ()
+int main()
 {
-    
+    int anums[] = {100, 200, 300, 400, 500, 600};
+    cout << sizeof(anums) << "\n";
+    cout << size(anums) << "\n";
+    cout << "Array elements count is " << sizeof(anums) / sizeof(int);
 }
