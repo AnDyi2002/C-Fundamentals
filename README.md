@@ -1,5 +1,5 @@
 # Cpp-Fundamentals
-[**C++ Code Fundamentals .... &lt;&lt;learning>>**]
+[**C++ Code Fundamentals .... &lt;&lt;Self Learning>>**]
 ## [**Simple Projects with c++**](./Simple_Projects_with_c++)
 
 ## [**Elzero_C++_Course**](./Elzero_C++_Course)
